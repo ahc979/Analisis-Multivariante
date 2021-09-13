@@ -1,2 +1,6 @@
-# Multivariante[README.md](https://github.com/ahc979/Multivariante-Analisis/files/7153545/README.md)[README.md](https://github.com/ahc979/Multivariante-Analisis/files/7153552/README.md)
-Analisis
+# Multivariante-Analisis
+Este fue uno de los primeros proyectos que hice como alumno del Máster en Data Science y mi primer proyecto en Rmarkdown. Se utilizaron técnicas como PCA o Factor Análisis, además de algunas técnicas de preprocesamiento. 
+
+- Podréis encontrar el HTML en el siguiente link: https://ahc979.github.io/Multivariante-Analisis/Practica-analisis-multivariante.html
+- El código se encuentra en la carpeta "Código"
+- Los datos se encuentran en la carpeta "Datos"
